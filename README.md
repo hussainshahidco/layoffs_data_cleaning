@@ -114,3 +114,9 @@ AND percentage_laid_off IS NULL;
 
 ALTER TABLE layoffs_staging
 DROP COLUMN id;
+
+```
+
+# Summary
+
+By applying data cleaning techniques such as removing duplicates, handling missing values, standardizing categorical fields, converting date formats, and filtering irrelevant records, the dataset was transformed into a clean, structured format ready for further exploration and visualization.
